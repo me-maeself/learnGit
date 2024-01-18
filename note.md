@@ -15,6 +15,27 @@ cd ......
 git init
 git status
 
-git add
+git add <filename>
+
+git add -A
+git add --all
+git add .
 
 - [] TODO: Look at how to .gitignore
+
+commit:
+- Commit is taking a snapshot of your current file
+
+git commit - m "<message>"
+
+git diff
+
+git add <filename>
+
+- working files
+- staging
+- commit
+
+git restore --staged <filename>
+
+git commit -a -m "<message>"
