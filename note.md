@@ -51,3 +51,6 @@ git reset <git tag>   -> Get those in `git log --oneline`
 git rebase -i --root    -> To change the whole history of the commit
 
 # branch
+
+git branch <branchName>
+git branch
