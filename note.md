@@ -54,3 +54,9 @@ git rebase -i --root    -> To change the whole history of the commit
 
 git branch <branchName>
 git branch
+
+git switch <bracnhName>
+git branch -c <branchName>
+
+git branch -d <branchName>
+
