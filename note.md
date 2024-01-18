@@ -39,3 +39,15 @@ git add <filename>
 git restore --staged <filename>
 
 git commit -a -m "<message>"
+
+git log
+git log --oneline
+git commit -m "<msg>" -- amend     -> To chage the previous commit
+
+git log -p
+
+git reset <git tag>   -> Get those in `git log --oneline`
+
+git rebase -i --root    -> To change the whole history of the commit
+
+# branch
